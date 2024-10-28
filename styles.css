@@ -1,0 +1,46 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+header {
+    background-color: #2b6777;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.hero {
+    padding: 50px;
+    text-align: center;
+    background-color: #52ab98;
+    color: white;
+}
+
+.content {
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #2b6777;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
